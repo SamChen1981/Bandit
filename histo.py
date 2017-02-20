@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 class HistogramTurtleFrame(Frame):
 	"""docstring for histogramTurtleFrame"""
-	def __init__(self, master, width_canvas = 300, height_canvas = 150, **kwargs):
+	def __init__(self, master, width_canvas = 400, height_canvas = 200, **kwargs):
 		Frame.__init__(self, master, **kwargs)
 		self.canvas = Canvas(self, width = width_canvas, height = height_canvas)
 		self.canvas.pack()
