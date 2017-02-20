@@ -32,7 +32,7 @@ In order to use your own csv file, you must format yur csv file as follow:
     The first line contains the names of the variable/Algorithm
     All the other lines contains the value of the variable/algorithm in the same column.
 
-An example is provided [here](http://wop2ai.com/1.csv).
+An example is provided [here](http://cop2ai.com/1.csv).
 
 ## using any kind of files
 
